@@ -1,0 +1,1 @@
+Delve into statistical concepts crucial for data science. This folder covers probability distributions, hypothesis testing, regression analysis, and more, enabling you to make informed decisions based on data. Practical examples and real-world applications are included.
